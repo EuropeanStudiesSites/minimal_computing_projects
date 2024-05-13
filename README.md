@@ -1,0 +1,1 @@
+# minimal_computing_projects
